@@ -14,7 +14,7 @@ surajthalange18@gmail.com
 | Plugin | What it does | Moodle | Tests | Status |
 |---|---|---|---|---|
 | **[mod_onelife](https://github.com/surajthalange/moodle-mod_onelife)** | Self-directed revision built from a course question bank. One wrong answer ends the run; the score is the streak. | 4.5 – 5.2 | 176 unit, 5 Behat | **Live on the Marketplace** |
-| **[report_transcript](https://github.com/surajthalange/moodle-report_transcript)** | Every learner's courses, dates, grades and outcomes: a page, a branded PDF, and a public verification page the code on it resolves to. | 4.5 – 5.2 | 61 unit, 5 Behat | **Review passed**, awaiting publication |
+| **[report_transcript](https://github.com/surajthalange/moodle-report_transcript)** | Every learner's courses, dates, grades and outcomes: a page, a branded PDF, and a public verification page the code on it resolves to. | 4.5 – 5.2 | 61 unit, 5 Behat | **Live on the Marketplace** |
 | **[theme_atrium](https://github.com/surajthalange/moodle-theme_atrium)** | A Boost child theme: collapsible sidebar, Ctrl+K command palette, accessibility toolbar, real print stylesheet. | 5.1 – 5.2 | 73 unit, 20 Behat | In review |
 
 Each one runs the full `moodle-plugin-ci` matrix on every supported Moodle branch, on each PHP
